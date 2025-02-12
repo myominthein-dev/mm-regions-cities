@@ -5,9 +5,10 @@
     "license": "MIT",
     "type": "library",
     "require": {
-        "php": ">=7.0.0",
-        "illuminate/database": ">=5.6.0",
-        "illuminate/support": ">=5.6.0"
+        "php": "^8.2",
+        "illuminate/database": "^11.31",
+"illuminate/support": "^11.31"
+
     },
     "autoload": {
         "psr-4": {
